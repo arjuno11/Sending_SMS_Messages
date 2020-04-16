@@ -1,0 +1,2 @@
+rootProject.name='Sending SMS Messages'
+include ':app'
